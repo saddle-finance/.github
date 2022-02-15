@@ -15,7 +15,7 @@ jobs:
       with:
         user: saddle-finance
         filename: profile/metrics.svg
-        token: ${{ secrets.METRICS_PAT }}
+        token: ${{ secrets.METRICS_TOKEN }}
         base: header, activity, community, repositories, metadata
         plugin_activity: no
         plugin_followup: yes
