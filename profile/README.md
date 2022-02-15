@@ -1,2 +1,2 @@
 Low Slippage Swaps for Every Corner of DeFi
-![Metrics](/github-metrics.svg)
+![Metrics](/profile/metrics.svg)
